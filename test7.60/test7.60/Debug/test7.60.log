@@ -1,0 +1,2 @@
+﻿  test.c
+LINK : fatal error LNK1207: “E:\vs2010project\test7.60\Debug\test7.60.pdb”中的 PDB 格式不兼容；请删除并重新生成
