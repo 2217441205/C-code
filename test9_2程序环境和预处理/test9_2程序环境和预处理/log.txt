@@ -1,0 +1,10 @@
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 0
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 1
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 2
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 3
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 4
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 5
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 6
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 7
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 8
+file:E:\code\test9_2程序环境和预处理\test9_2程序环境和预处理\test.c,line=30 date=Sep  3 2023 time=15:42:44 9
